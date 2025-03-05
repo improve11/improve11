@@ -18,7 +18,7 @@ ______________________________________________________________________
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-6DA55F?style=for-the-badge&logo=flask&logoColor=white)
-![Django]
+![Django](https://img.shields.io/badge/django-6DA55F?style=for-the-badge&logo=django&logoColor=white)
 </div>
 
 <div align="center" >
